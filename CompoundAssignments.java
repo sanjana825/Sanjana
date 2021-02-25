@@ -14,6 +14,7 @@ public class CompoundAssignments {
 		System.out.println(result);
 		result %=7;
 				System.out.println(result);
+				System.out.println("The final value of result is "+result);
 	}
 
 }
