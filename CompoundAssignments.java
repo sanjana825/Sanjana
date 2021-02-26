@@ -13,8 +13,8 @@ public class CompoundAssignments {
 		result +=8;
 		System.out.println(result);
 		result %=7;
-				System.out.println(result);
-				System.out.println("The final value of result is "+result);
+							System.out.println("The final value of result is "+result);
+				System.out.println("heyy");
 	}
 
 }
